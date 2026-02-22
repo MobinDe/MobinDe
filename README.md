@@ -39,8 +39,9 @@ I'm a front-end developer focused on building responsive, performant, and user-f
 
 Here are a few of my projects that I'm proud of:
 
-*   **[`ghalvazi`](https://github.com/MobinDe/ghalvazi)**: My first project, described as "jamal". This is where my coding journey began!
-*   **[`create-react-app-lambda`](https://github.com/MobinDe/create-react-app-lambda)**: A JavaScript project integrating React with serverless functions. (Add a short, engaging description here).
+*   **[`Hotel-Homepage`](https://github.com/MobinDe/Hotel-Homepage)**: My first project, described as "jamal". This is where my coding journey began!
+*   **[`to-do-list`](https://github.com/MobinDe/to-do-list)**: i use java and css and html for make todo list web-app!
+
 *   **More Cool Projects Coming Soon!** I'm actively working on new applications to showcase my front-end skills.
 
 ---
